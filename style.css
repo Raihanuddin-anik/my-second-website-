@@ -1,5 +1,15 @@
+body{
+    background-image: url("jGlzr.png");
+    background-repeat: no-repeat;
+}
+div{
+    float: left;
+}
+    
 
-
-p{
-    background-color: red;
+h2{
+    font-family: fantasy;
+    color: black;
+    text-align: center;
+    margin-top: 40px;
 }
